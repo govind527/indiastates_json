@@ -20783,7 +20783,7 @@
           "properties": {
             "district": "North and Middle Andaman",
             "dt_code": "639",
-            "st_nm": "Andaman & Nicobar ",
+            "st_nm": "Andaman & Nicobar",
             "st_code": "35",
             "year": "2011_c"
           }
@@ -20794,7 +20794,7 @@
           "properties": {
             "district": "South Andaman",
             "dt_code": "640",
-            "st_nm": "Andaman & Nicobar ",
+            "st_nm": "Andaman & Nicobar",
             "st_code": "35",
             "year": "2011_c"
           }
@@ -20805,7 +20805,7 @@
           "properties": {
             "district": "Nicobars",
             "dt_code": "638",
-            "st_nm": "Andaman & Nicobar ",
+            "st_nm": "Andaman & Nicobar",
             "st_code": "35",
             "year": "2011_c"
           }
@@ -25057,11 +25057,11 @@
           ],
           "type": "MultiPolygon",
           "properties": {
-            "st_nm": "Andaman & Nicobar ",
+            "st_nm": "Andaman & Nicobar",
             "st_code": "35",
             "year": "2011_c"
           },
-          "id": "Andaman & Nicobar "
+          "id": "Andaman & Nicobar"
         },
         {
           "arcs": [
